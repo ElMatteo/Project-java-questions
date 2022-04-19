@@ -1,0 +1,52 @@
+Sport;VF;Ceci est un test de question;1;true
+Automobile;VF;Ceci est un test de question;1;true
+Esport;VF;Ceci est un test de question;1;true
+Geographie;VF;Ceci est un test de question;1;true
+Histoire;VF;Ceci est un test de question;1;true
+Literature;VF;Ceci est un test de question;1;true
+Informatique;VF;Ceci est un test de question;1;true
+Physique;VF;Ceci est un test de question;1;true
+Math;VF;Ceci est un test de question;1;true
+Culture;VF;Ceci est un test de question;1;true
+Mode;VF;Ceci est un test de question;1;true
+Sport;VF;Ceci est un test de question;2;true
+Automobile;VF;Ceci est un test de question;2;true
+Esport;VF;Ceci est un test de question;2;true
+Geographie;VF;Ceci est un test de question;2;true
+Histoire;VF;Ceci est un test de question;2;true
+Literature;VF;Ceci est un test de question;2;true
+Informatique;VF;Ceci est un test de question;2;true
+Physique;VF;Ceci est un test de question;2;true
+Math;VF;Ceci est un test de question;2;true
+Culture;VF;Ceci est un test de question;2;true
+Mode;VF;Ceci est un test de question;2;true
+Sport;RC;Où se trouve la Tour Eiffel;1;Paris
+Automobile;RC;Où se trouve la Tour Eiffel;1;Paris
+Esport;RC;Où se trouve la Tour Eiffel;1;Paris
+Geographie;RC;Où se trouve la Tour Eiffel;1;Paris
+Histoire;RC;Où se trouve la Tour Eiffel;1;Paris
+Literature;RC;Où se trouve la Tour Eiffel;1;Paris
+Informatique;RC;Où se trouve la Tour Eiffel;1;Paris
+Physique;RC;Où se trouve la Tour Eiffel;1;Paris
+Math;RC;Où se trouve la Tour Eiffel;1;Paris
+Culture;RC;Où se trouve la Tour Eiffel4;1;Paris
+Sport;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Automobile;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Esport;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Geographie;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Histoire;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Literature;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Informatique;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Physique;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Math;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Culture;QCM;Ceci est la dernière question de test;1;ReponseA;ReponseB;ReponseC;BonneReponse
+Sport;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Automobile;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Esport;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Geographie;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Histoire;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Literature;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Informatique;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Physique;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Math;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
+Culture;QCM;Ceci est la dernière question de test;2;ReponseA;ReponseB;ReponseC;BonneReponse
